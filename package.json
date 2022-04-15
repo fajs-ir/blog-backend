@@ -1,0 +1,26 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "Public blog for fajs.ir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajs-ir/blog-backend.git"
+  },
+  "keywords": [
+    "fajs",
+    "blog"
+  ],
+  "author": "Hossein MohammadiPour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fajs-ir/blog-backend/issues"
+  },
+  "homepage": "https://github.com/fajs-ir/blog-backend#readme",
+  "dependencies": {
+    "ua-parser-js": "^1.0.2"
+  }
+}

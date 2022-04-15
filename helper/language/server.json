@@ -1,0 +1,14 @@
+{
+    "success": {
+        "mongodbConnected": "MongoDB connected successfully.",
+        "redisConnected": "Redis connected successfully.",
+        "serverStarted": "Server started successfully on port: "
+    },
+    "error": {
+        "mongodbConnectionError": "MongoDB connection error.",
+        "redisConnectionError": "Redis connection error."
+    },
+    "alert": {
+
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "success": {
+        "success": "با موفقیت انجام شد",
+        "register": "عضویت با موفقیت انجام شد"
+    },
+    "error": {
+        "invalidToken": "توکن نامعتبر است",
+        "imageNotFound": "تصویر یافت نشد",
+        "resizeError": "خطا در تغییر اندازه تصویر",
+        "emailOrPasswordIncorrect": "ایمیل یا رمز عبور اشتباه است",
+        "emailExists": "ایمیل قبلا استفاده شده است",
+        "usernameExists": "نام کاربری قبلا استفاده شده است",
+        "usernameUpdateLimit": "هر کاربر فقط می تواند نام کاربری خود را 5 بار تغییر دهد",
+        "currentPasswordNotMatch": "رمز عبور فعلی شما صحیح نیست"
+    },
+    "alert": {
+
+    }
+}
